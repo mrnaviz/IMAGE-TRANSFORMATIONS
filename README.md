@@ -1,4 +1,4 @@
-<img width="328" alt="Screenshot 2024-10-03 at 11 29 33 AM" src="https://github.com/user-attachments/assets/6b1839e8-2f95-4ff1-b305-5799e9bda2f2"># IMAGE-TRANSFORMATIONS
+## IMAGE-TRANSFORMATIONS
 
 
 ## Aim
